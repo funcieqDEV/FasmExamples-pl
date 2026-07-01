@@ -1,4 +1,4 @@
-# FASM - for idiots
+# FASM - for idiots (for me)
 
 najpierw trza zapisać rodzaj pliku do jakiego kompilujemy ELF64 dla linux PE dla windows
 
